@@ -1,1 +1,1 @@
-TinyRTOS is a Real-Time Operating Systems targering small microcontrollers with constrained resourses.
+TinyRTOS is a Real-Time Operating System targering small microcontrollers with constrained resourses.
